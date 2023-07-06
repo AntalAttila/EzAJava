@@ -1,3 +1,1 @@
-# EzAJava
-Java Backend fejlesztő tanfolyam
-új verzió, meg miegymás...
+Ez egy másik verzió
